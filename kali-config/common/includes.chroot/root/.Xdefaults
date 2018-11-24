@@ -1,0 +1,46 @@
+!--- Colors ---!
+! special
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+!*.background:   #27353F
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #1d1f21
+*.color8:       #969896
+
+! red
+*.color1:       #cc342b
+*.color9:       #cc342b
+
+! green
+*.color2:       #c28e66
+!*.color10:      #c4641c
+*.color10:      #ed762e
+
+! yellow
+*.color3:       #aa7725
+*.color11:      #fba922
+
+! blue
+*.color4:       #3971ed
+*.color12:      #3971ed
+
+! magenta
+*.color5:       #a36ac7
+*.color13:      #a36ac7
+
+! cyan
+*.color6:       #3971ed
+*.color14:      #3971ed
+
+! white
+*.color7:       #0e6a06
+*.color15:      #ffffff
+
+!--- URxvt config ---!
+URxvt*font: xft:Inconsolata\ for\ Powerline:size=10
+URxvt.scrollBar: false
+URxvt.transparent:   true
+URxvt.shading:       20
+URxvt.internalBorder:  5
